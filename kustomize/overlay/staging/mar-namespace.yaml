@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_195ad6b1-6429-4fe3-967d-111af8c88b66
+    project-id: project_933da1b8-d147-49c1-ac3f-ab1745a9e049
+    project-name: extacy
+    environment-name: staging
+    organization-id: org_dbad0fd6-b3f4-4807-8abf-534816acef98
